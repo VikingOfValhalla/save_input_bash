@@ -1,0 +1,4 @@
+the if function ran
+this text will go in the file
+more text
+more text
